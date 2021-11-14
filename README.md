@@ -1,6 +1,7 @@
 # 5007-Tutorial6 Hotel California Waitlist System in Mobile
 #### Name: Liu linxi
 #### Student Number:A0228591X
+#### GitHub link :https://github.com/Catherine9898/5007-Tutorial6.git
 
 ## Part I. Backup Environment(same as Tutorial5) 
 #### 1. ubuntu 
