@@ -66,7 +66,7 @@ screen mongod
 clone from my git repository 
 
   ```
-  git clone https://github.com/irissky/tut6.git
+  git clone https://github.com/Catherine9898/5007-Tutorial6.git
   ```
 
 #### 2. Approach to run Android frontend
@@ -91,10 +91,10 @@ you need to
 ##### 3.2 The server runs at `port 5000`.
 
 
-##### 3.3 Do not forget to replace 192.168.1.4 with your own IP address in frontend/App.js:  
+##### 3.3 Do not forget to replace 192.156.1.1 with your own IP address in frontend/App.js:  
 
   ```
-  const client = new ApolloClient({ uri: 'http://192.168.1.4:5000/graphql' });
+  const client = new ApolloClient({ uri: 'http://192.156.1.1:5000/graphql' });
   ```
 
 ##### 3.4 your input should satisfied the following:
